@@ -59,7 +59,7 @@ The dataset (`AI-Data.csv`) contains information on students' academic and behav
 3. Place the `AI-Data.csv` file in the project directory.
 4. Run the script:
    ```bash
-   python student_performance.py
+   python Project.py
    ```
 5. Follow the interactive menu to:
    - View graphs based on various parameters
