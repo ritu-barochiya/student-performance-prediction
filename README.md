@@ -78,17 +78,6 @@ The dataset (`AI-Data.csv`) contains information on students' academic and behav
 | Perceptron             | ~80          |
 | Neural Network (MLP)   | ~85          |
 
----
-
-## Sample Visualizations
-
-### Marks Class Count Graph
-![Class Count Graph](images/class_count_graph.png)
-
-### Marks Class Semester-wise Graph
-![Semester-wise Graph](images/semester_graph.png)
-
----
 
 ## Key Functions
 
